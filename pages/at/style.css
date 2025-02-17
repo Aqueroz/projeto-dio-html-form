@@ -1,0 +1,36 @@
+@import url(../../style.css);
+
+.header{
+    margin-top: 0;
+    height: 400px;
+    background: url(/assets/banner.webp) no-repeat;
+    background-size: 100% 100%;
+}
+
+table, td{
+    border: 1px solid;
+    margin: 1px;
+}
+table{
+    margin: auto;
+    width: 76%;
+    border-collapse: collapse;
+}
+tr{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+td{
+    text-align: left;
+    width: 180px;
+    padding: 2px;
+}
+.name-td{
+    padding: 2px;
+    font-size: 18px;
+    background-color: #000;
+    color: #FFF;
+    border: 1px solid #FFF;
+}
