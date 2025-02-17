@@ -1,3 +1,1 @@
-
-
-site simples apeans exemplificar o uso de formularios e tabelas 
+site simples apenas para exemplificar o uso de formularios e tabelas 
